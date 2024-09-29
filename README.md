@@ -31,7 +31,7 @@ This script downloads the attachments, extracts the PDF files, and forwards them
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/BLibs/Primo_Upcharge_Value_Patch/.git
+    git clone https://github.com/BLibs/Primo_Upcharge_Value_Patch.git
     ```
 2. Navigate to the project directory:
     ```sh
